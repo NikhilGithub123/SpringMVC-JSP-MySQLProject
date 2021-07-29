@@ -1,0 +1,6 @@
+com\amdocsproject\controller\RegistrationController.class
+com\amdocsproject\service\UserServiceIMPL.class
+com\amdocsproject\doa\doa.class
+com\amdocsproject\service\UserService.class
+com\amdocsproject\model\user.class
+com\amdocsproject\doa\doaIMPL.class
